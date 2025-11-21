@@ -14,13 +14,16 @@ jobs:
           submodules: true
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.x"
 
+      - name: Install the latest version of uv
+        uses: astral-sh/setup-uv@v7
+
       - name: Setup Dependencies
         run: |
-          pip install -r scorer/requirements.txt
+          uv --project scorer sync
 
       - uses: shogo82148/actions-setup-perl@v1
         with:
@@ -31,11 +34,11 @@ jobs:
 
       - name: Test
         run: |
-          python -m scorer -t tests input/config.yaml
+          uv --project scorer run main -t tests input/config.yaml
 
       - name: Build
         run: |
-          python -m scorer -w build input/config.yaml
+          uv --project scorer run main -w build input/config.yaml
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
