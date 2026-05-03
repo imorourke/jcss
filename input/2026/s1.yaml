@@ -98,3 +98,12 @@ races:
           Ian_O: 27:41
           Matt_L: 31:12
           Craig_J: FIP4
+  - date: "2026_05_03"
+    rc:
+      - Nick_H
+      - Barry_O
+    races:
+      - notes: Cancelled due to wind / weather
+        wind_bf: 4
+      - notes: Cancelled due to wind / weather
+        wind_bf: 4
