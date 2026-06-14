@@ -1,0 +1,65 @@
+boats:
+  Bill_P: SF
+  Rod_H: LASEM
+  Lewis_V: SF
+  Jim_S: SF
+  David_Bu: SF
+  Ian_O: US-1
+  Barry_O: HLR14
+  Steve_S: SF
+  Matt_L: F5
+  Nick_H: SF
+  Chris_E: SF
+  Dennis_S: SF
+  Gary_V: SF
+  Ryan_C: SF
+  Matt_T: SF
+  Craig_J: STFS
+  Heather_B: SF
+  Jim_M: SF
+  John_M: SF
+  Sam: SF
+  Marja_J: SF
+  Danielle: SF
+  Adam_E: SF
+  Marcus_M: SF
+  Sofia: SF
+  Larry_G: SF
+  Chris_Y: SF
+  Elliott_F: SF
+  Jay_H: SWSX
+  Chris_P: SF
+  Jay_E: HLR14
+  John_F: SF
+  Michael_S: SF
+  Jeremy_B: SF
+  Molly: SF
+races:
+  - date: "2026_04_19"
+    rc:
+      - Chris_E
+      - Larry_G
+    races:
+      - notes: M3
+        wind_bf: 2
+        times:
+          Ian_O: 27:31
+          Adam_E: 52:00
+          Matt_L: 32:38
+          Chris_P: 47:54
+          Heather_B: DNF
+          Jay_E: 38:18
+          Craig_J: DNF
+          Jeremy_B: 46:02
+          Ryan_C: 39:45
+          Molly: DNF
+      - notes: M2
+        wind_bf: 2
+        times:
+          Ian_O: 18:15
+          Adam_E: FIP6
+          Matt_L: 21:15
+          Chris_P: 26:13
+          Jay_E: 24:10
+          Jeremy_B: DNF
+          Ryan_C: 23:50
