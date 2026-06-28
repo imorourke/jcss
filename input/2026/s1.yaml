@@ -32,7 +32,7 @@ boats:
   Jay_E: SF
   John_F: SF
   Michael_S: SF
-  Jeremy: SF
+  Jeremy_B: SF
 races:
   - date: "2026_03_29"
     rc:
@@ -120,7 +120,7 @@ races:
           Heather_B: 20:00
           Matt_L: 17:20
           Ryan_C: 18:20
-          Jeremy: 20:04
+          Jeremy_B: 20:04
           Larry_G: FIP5
       - notes: I2
         wind_bf: 2
@@ -129,5 +129,5 @@ races:
           Heather_B: 18:08
           Matt_L: 17:08
           Ryan_C: 16:36
-          Jeremy: 18:42
+          Jeremy_B: 18:42
           Larry_G: 19:42

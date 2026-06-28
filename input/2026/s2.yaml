@@ -35,7 +35,7 @@ boats:
   Jeremy_B: SF
   Molly: SF
 races:
-  - date: "2026_04_19"
+  - date: "2026_06_14"
     rc:
       - Chris_E
       - Larry_G
@@ -63,3 +63,12 @@ races:
           Jay_E: 24:10
           Jeremy_B: DNF
           Ryan_C: 23:50
+  - date: "2026_06_28"
+    rc:
+      - Heather_B
+      - Jeremy_B
+    races:
+      - notes: Cancelled due to high wind
+        wind_bf: 4
+      - notes: Cancelled due to high wind
+        wind_bf: 4
