@@ -104,3 +104,10 @@ races:
           Jeremy_B: 38:10
           Tom_O: 28:12
           Bill_P: 22:46
+  - date: "2026_07_19"
+    rc:
+    races:
+      - notes: Cancelled due to heat, storms
+        wind_bf: 0
+      - notes: Cancelled due to heat, storms
+        wind_bf: 0
