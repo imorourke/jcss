@@ -35,6 +35,7 @@ boats:
   Jeremy_B: SF
   Molly_L: SF
   Tom_O: SF
+  Lyndee_H: SF
 races:
   - date: "2026_06_14"
     rc:
@@ -111,3 +112,24 @@ races:
         wind_bf: 0
       - notes: Cancelled due to heat, storms
         wind_bf: 0
+  - date: "2026_07_26"
+    rc:
+    races:
+      - notes: M1
+        wind_bf: 2
+        offset_time: 5:00
+        times:
+          Elliott_F: 19:10
+          Lyndee_H: 18:37
+          Tom_O: 21:14
+          Dennis_S: 21:03
+          Jeremy_B: 19:21
+      - notes: M2
+        wind_bf: 2
+        offset_time: 5:00
+        times:
+          Elliott_F: 33:29
+          Lyndee_H: 30:20
+          Tom_O: 31:31
+          Dennis_S: DNF
+          Jeremy_B: 31:20
