@@ -114,6 +114,8 @@ races:
         wind_bf: 0
   - date: "2026_07_26"
     rc:
+      - Ian_O
+      - Bill_P
     races:
       - notes: M1
         wind_bf: 2
