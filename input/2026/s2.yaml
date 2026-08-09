@@ -36,6 +36,7 @@ boats:
   Molly_L: SF
   Tom_O: SF
   Lyndee_H: SF
+  Matt_O: SF
 races:
   - date: "2026_06_14"
     rc:
@@ -135,3 +136,22 @@ races:
           Tom_O: 31:31
           Dennis_S: DNF
           Jeremy_B: 31:20
+  - date: "2026_08_09"
+    rc:
+      - Matt_L
+      - Lewis_V
+    races:
+      - notes: M2
+        wind_bf: 2
+        times:
+          Jeremy_B: 31:43
+          Bill_P: 26:36
+          Jay_E: 34:34
+          Matt_O: 29:55
+      - notes: M2
+        wind_bf: 2
+        times:
+          Jeremy_B: DNF
+          Bill_P: 24:38
+          Jay_E: FIP3
+          Matt_O: 24:40
