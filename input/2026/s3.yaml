@@ -58,3 +58,18 @@ races:
           Bill_P: 39:09
           Chris_E: 34:25
           Matt_L: FIP3
+  - date: "2026_08_30"
+    rc:
+      - Barry_O
+      - Dennis_S
+    races:
+      - notes: M3
+        wind_bf: 2
+        offset_time: 5:00
+        times:
+          Matt_L: 36:28
+          Ian_O: DNF
+          Larry_G: DNS
+          Elliott_F: 42:03
+      - notes: Cancelled
+        wind_bf: 2
